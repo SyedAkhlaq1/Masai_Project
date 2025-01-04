@@ -73,26 +73,5 @@ Account Number, Transaction Type (Deposit/Withdrawal), Amount, Date
 Example:
 123456, Deposit, 500, 2024-12-23
 
-## Example Console Flow
-
-### Main Menu:
-
-Welcome to the Banking System!
-
-Create Account
-Login
-Exit Enter your choice: 1
-
-### Account Creation:
-Enter your name: John Doe Enter your initial deposit: 1000 Your account number: 123456 Enter a password: **** Account created successfully! (Account details saved to accounts.txt)
-
-### Login:
-Enter your account number: 123456 Enter your password: **** Login successful!
-
-### Deposit:
-Enter amount to deposit: 500 Deposit successful! Current balance: 1500 (Transaction logged in transactions.txt)
-
-### Withdrawal:
-Enter amount to withdraw: 200 Withdrawal successful! Current balance: 1300 (Transaction logged in transactions.txt)
 
 
